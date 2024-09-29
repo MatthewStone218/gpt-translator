@@ -1,0 +1,34 @@
+#What is this?
+This project automatically translates text via Chat GPT. Insert your CSV file and press the button, and GPT will translate it into the specified language.
+
+##Is that all?
+What's unique about this project is that you can input the context for each text. You can help GPT to translate correctly by writing the context for the text on the same row. You can also set a prompt that applies to all texts.
+
+#How to use
+1. Enter your Chat GPT API key and other information.
+
+2. Press the Confirm button.
+
+3. Fill each field with the correct information. The required information includes:
+
+-csv file name: The name of the CSV file you have moved to the program folder location. This file will be translated.
+-start language: The language of the original text to be translated.
+-destination language: The target language of the translation.
+-start column name: The text at the top of the column where the original text is located. In the picture, it is labeled "KR".
+-destination column name: The text at the top of the column where the translated sentences will go. In the picture, it is labeled "EN".
+-context column name: The text at the top of the column that describes the context of the original text. In the picture, it is labeled "CONTEXT".
+
+4. Enter the desired content in the prompt to the right of the Setting button. This is not mandatory.
+
+5. Press the Save setting button. This way, you won't need to enter the same information next time.
+
+6. Press the Load csv button. The file in the folder where the executable file is located will be loaded.
+
+7. Press the Start translation button. The translation begins immediately when you press the button, and when the translation is finished, the log window will notify you that it is done.
+
+8. Press the Save csv button to save the translated content. When the save is complete, a log will appear. If you see the log, you must check that the file has been created correctly before closing the program, as there may be a problem with program permissions preventing proper saving.
+
+9. In case of a Chat GPT error or if your tokens are exhausted and translation stops, you can still press the Save csv button to save the file translated up to that point. You can later put the file that was saved at that point back in and the translation will automatically resume from where it stopped.
+
+#Open Source
+This project is an open-source project. You can utilize this source in any way. However, I am not responsible for any issues that arise from it.
