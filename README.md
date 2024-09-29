@@ -6,7 +6,6 @@ What's unique about this project is that you can input the context for each text
 
 # How to use
 ![6](https://github.com/user-attachments/assets/1cbcd7e1-14e5-4a21-aa72-2d5b1ca1a512)
-d827-4046-a906-9446809a58ac)
 1. Enter your Chat GPT API key and other information.
 
 2. Press the Confirm button.
