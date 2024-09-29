@@ -11,7 +11,7 @@ d827-4046-a906-9446809a58ac)
 
 2. Press the Confirm button.
 
-![3](https://github.com/user-attachments/assets/29720d68-21d5-4f74-9421-ddf1973a03dc)
+![3](https://github.com/user-attachments/assets/383afcbb-4032-4ef2-a842-633d9b3ea9cd)
 3. Fill each field with the correct information. The required information includes:
 
 ![2](https://github.com/user-attachments/assets/29720d68-21d5-4f74-9421-ddf1973a03dc)
