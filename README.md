@@ -1,10 +1,10 @@
-#What is this?
+# What is this?
 This project automatically translates text via Chat GPT. Insert your CSV file and press the button, and GPT will translate it into the specified language.
 
-##Is that all?
+## Is that all?
 What's unique about this project is that you can input the context for each text. You can help GPT to translate correctly by writing the context for the text on the same row. You can also set a prompt that applies to all texts.
 
-#How to use
+# How to use
 1. Enter your Chat GPT API key and other information.
 
 2. Press the Confirm button.
