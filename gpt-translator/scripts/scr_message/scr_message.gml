@@ -18,6 +18,9 @@ function send_message_to_gpt(arr){
 			messages: [
 			],
 		};
+		if(global.system_prompt != ""){
+			array_push(_body[$"messages"], {role: "system", content: global.system_prompt});
+		}
 		for(var i = 0; i < array_length(arr); i++){
 			array_push(_body[$"messages"], {role: arr[i][0], content: arr[i][1]});
 		}

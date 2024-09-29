@@ -1,19 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"obj_button_go_back_to_setting",
+  "%Name":"obj_input_textbox_system_prompt",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_button_go_back_to_setting",
+  "name":"obj_input_textbox_system_prompt",
   "overriddenProperties":[],
   "parent":{
-    "name":"translation",
-    "path":"folders/Objects/translation.yy",
+    "name":"system_prompt",
+    "path":"folders/Objects/system_prompt.yy",
   },
   "parentObjectId":{
-    "name":"obj_button",
-    "path":"objects/obj_button/obj_button.yy",
+    "name":"obj_input_textbox_2",
+    "path":"objects/obj_input_textbox_2/obj_input_textbox_2.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -33,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_button_2",
-    "path":"sprites/spr_button_2/spr_button_2.yy",
+    "name":"spr_input_textbox_2",
+    "path":"sprites/spr_input_textbox_2/spr_input_textbox_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_button_go_back_to_setting",
+  "%Name":"obj_button_system_prompt",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_button_go_back_to_setting",
+  "name":"obj_button_system_prompt",
   "overriddenProperties":[],
   "parent":{
     "name":"translation",
