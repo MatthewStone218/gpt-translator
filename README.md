@@ -5,15 +5,19 @@ This project automatically translates text via Chat GPT. Insert your CSV file an
 What's unique about this project is that you can input the context for each text. You can help GPT to translate correctly by writing the context for the text on the same row. You can also set a prompt that applies to all texts.
 
 # How to use
+![1](https://github.com/user-attachments/assets/9e36ff74-93d1-4b33-b2a6-7418c426e09f)
 1. Enter your Chat GPT API key and other information.
 
 2. Press the Confirm button.
 
+![3](https://github.com/user-attachments/assets/29720d68-21d5-4f74-9421-ddf1973a03dc)
 3. Fill each field with the correct information. The required information includes:
 
+![2](https://github.com/user-attachments/assets/29720d68-21d5-4f74-9421-ddf1973a03dc)
 -csv file name: The name of the CSV file you have moved to the program folder location. This file will be translated.
 -start language: The language of the original text to be translated.
 -destination language: The target language of the translation.
+![5](https://github.com/user-attachments/assets/798c9ca8-d827-4046-a906-9446809a58ac)
 -start column name: The text at the top of the column where the original text is located. In the picture, it is labeled "KR".
 -destination column name: The text at the top of the column where the translated sentences will go. In the picture, it is labeled "EN".
 -context column name: The text at the top of the column that describes the context of the original text. In the picture, it is labeled "CONTEXT".
