@@ -4,5 +4,5 @@
 // Inherit the parent event
 event_inherited();
 
-name = "context_column_name";
+name = "context column name";
 text = global.context_column_name;

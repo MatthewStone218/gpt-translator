@@ -5,9 +5,7 @@ text = "Start translation";
 function click(){
 	if(global.is_translating){
 		stop_translation();
-		text = "Start translation";
 	} else {
 		start_translation();
-		text = "Stop translation";
 	}
 }
